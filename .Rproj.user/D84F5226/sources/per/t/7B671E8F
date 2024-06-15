@@ -1,0 +1,26 @@
+{
+    "id": "7B671E8F",
+    "path": "~/.uni/machine learning/4 - random forest with regression predictor.R",
+    "project_path": "4 - random forest with regression predictor.R",
+    "type": "r_source",
+    "hash": "240711714",
+    "contents": "",
+    "dirty": false,
+    "created": 1718437834359.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "65,52",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1718438034,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1718438034142,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,27 @@
+{
+    "id": "7DCCD0A8",
+    "path": "~/.uni/machine learning/7 - random forest with continuous predictor normalized data.R",
+    "project_path": "7 - random forest with continuous predictor normalized data.R",
+    "type": "r_source",
+    "hash": "92092311",
+    "contents": "",
+    "dirty": false,
+    "created": 1718441484100.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "62,44",
+        "scrollLine": "41"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1718442509,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1718442509293,
+    "read_only": false,
+    "read_only_alternatives": []
+}
