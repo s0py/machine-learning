@@ -1,7 +1,7 @@
 # scale the variables to their standard deviations
 # scale some of them to undo the zipfian distribution
 # scale some of them to undo the boltzman distribution
-
+# remove all outliers
 
 # Load required packages
 library(data.table)

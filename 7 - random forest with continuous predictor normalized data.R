@@ -64,3 +64,7 @@ ggplot(conf_matrix_df, aes(x = prediction, y = default)) +
   labs(title = "plot random forest regression normalized data cutoff of 0.5.png", x = "Prediction", y = "Actual") +
   theme_minimal()
 ggsave(filename="plot random forest regression normalized data cutoff of 0.5.png")
+# this test, even with low accuracy, is actually ok.
+# simply saying that no one will default makes you right 78% of the time,
+# but this model is right 81% of the time.
+accuracy - (1-mean(dt$Defaulted))

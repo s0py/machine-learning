@@ -48,8 +48,15 @@ ggplot(conf_matrix_df, aes(x = prediction, y = Defaulted)) +
   labs(title = "Confusion Matrix", x = "Prediction", y = "Actual") +
   theme_minimal()
 ggsave(filename="plot tree 1.png")
-# ok, so it's really likely to give a false negative. it has more false negatives
-# than it has true positives.
+results$error <- xor(as.numeric(results$Defaulted), as.numeric(results$Prediction))
+accuracy <- sum(as.numeric(results$error))/nrow(results)
+accuracy
+1-mean(dt$Defaulted)
+accuracy - (1-mean(dt$Defaulted))
+# this model is really bad. saying no one will default makes you right 78% of the time
+# this model is right 78% of the time.
+
+
 
 ################################################################################
 #                                TREE 2
