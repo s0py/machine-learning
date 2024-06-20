@@ -1,0 +1,9 @@
+a,b
+# this test, even with low accuracy, is actually good.
+# simply saying that no one will default makes you right 89% of the time,
+# but this model is right 88% of the time.
+
+c,d
+# this test, even with low accuracy, is actually good.
+# simply saying that no one will default makes you right 78% of the time,
+# but this model is right 82% of the time.

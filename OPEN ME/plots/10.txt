@@ -1,0 +1,14 @@
+a,b
+# this test, even with low accuracy, is actually good.
+# simply saying that no one will default makes you right 72% of the time,
+# but this model is right 77% of the time.
+
+c,d
+# this test, even with low accuracy, is actually good.
+# simply saying that no one will default makes you right 73% of the time,
+# but this model is right 79% of the time.
+
+e,f
+# but it seems that the accuracy of this test is not any better just saying
+# no one will default at all.
+# it's right 90% of the time but the chance of defaulting is 90%.

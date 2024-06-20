@@ -1,0 +1,3 @@
+a,b
+# Saying no one will default is right 78% of the time
+# This model is right 82% of the time

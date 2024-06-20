@@ -1,0 +1,6 @@
+a,b
+# Saying no one will default is right 78% of the time
+# This model is right 82% of the time
+# This is a slightly better score without rounding than with categorical predictors
+
+# no improvement with 1000 trees instead of 100

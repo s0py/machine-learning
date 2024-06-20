@@ -1,0 +1,13 @@
+a,b
+# this model is really bad. saying no one will default makes you right 78% of the time
+# this model is right 78% of the time.
+
+
+c,d
+# Saying no one will default is right 78% of the time
+# this model is right 78% of the time
+# so it's not any better
+
+
+e,f
+# really similar to TREE 2
